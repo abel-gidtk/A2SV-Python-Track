@@ -1,4 +1,3 @@
-import sys
 if __name__ == '__main__':
     li = list()
     N = int(input())
